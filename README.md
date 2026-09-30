@@ -1,4 +1,4 @@
-<div align="center">"SAMUENPD"
+<div align="center">SAMUENPD
 
 Desenvolvedor em formação • Criador de projetos • Entusiasta de tecnologia
 
@@ -11,7 +11,7 @@ Transformo ideias em projetos.
 Estudo desenvolvimento de software e gosto de aprender construindo coisas reais —
 desde aplicações web e sistemas até inteligência artificial.
 
-</div>---
+</div>
 
 Sobre mim
 
@@ -23,7 +23,7 @@ Sobre mim
 
 Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6 e desenvolvimento de aplicações web.
 
----
+
 
 🛠️ Tecnologias
 
@@ -85,7 +85,7 @@ Stack
 
 </td>
 </tr>
-</table>---
+</table>
 
 📚 Atualmente estudando
 
@@ -96,22 +96,22 @@ Stack
 🟣| Inteligência Artificial
 🔵| Python & PyQt6
 
-</div>---
+</div>
 
 📊 GitHub
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=samuenpd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF8C42&text_color=FFFFFF&ring_color=3B82F6" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuenpd&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" /></div>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=samuenpd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF8C42&text_color=FFFFFF&ring_color=3B82F6" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuenpd&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" /></div>
 
 🔥 Atividade
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=samuenpd&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF8C42&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=888888" /></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=samuenpd&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF8C42&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=888888" /></div>
 
 💡 Filosofia
 
 <div align="center">«"Não quero apenas usar tecnologia.
 Quero entender, construir e criar com ela."»
 
-</div>---
+</div>
 
 <div align="center">Vamos construir algo?
 
