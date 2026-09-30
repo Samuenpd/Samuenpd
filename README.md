@@ -31,7 +31,7 @@ Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6 e de
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />
 
-<img src="https://skillicons.dev/icons?i=git,github,supabase,mysql" /></div>---
+<img src="https://skillicons.dev/icons?i=git,github,supabase,mysql" /></div>
 
 🚀 Projetos em destaque
 
