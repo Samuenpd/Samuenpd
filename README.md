@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação • Criador de projetos • Entusiasta de tecnologia
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:FF8C42&height=180&section=header&text=Samuel%20De%20Lima%20Milaré&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/></div>---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:FF8C42&height=180&section=header&text=Samuel%20De%20Lima%20Milaré&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/></div>
 
 <div align="center">Olá! 👋
 
@@ -29,9 +29,9 @@ Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6 e de
 
 <div align="center">Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,ts,python" />Web
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />Ferramentas & Backend
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />
 
 <img src="https://skillicons.dev/icons?i=git,github,supabase,mysql" /></div>---
 
