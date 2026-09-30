@@ -1,15 +1,15 @@
-<div align="center">SAMUENPD
+<div align="center">"SAMUENPD"
 
 Desenvolvedor em formação • Criador de projetos • Entusiasta de tecnologia
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:FF8C42&height=180&section=header&text=Samuel%20De%20Lima%20Milaré&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/></div>---
 
-<div align="center">"Olá! 👋"
+<div align="center">Olá! 👋
 
 Transformo ideias em projetos.
 
 Estudo desenvolvimento de software e gosto de aprender construindo coisas reais —
-desde aplicações web e sistemas até inteligência artificial e jogos.
+desde aplicações web e sistemas até inteligência artificial.
 
 </div>---
 
@@ -18,11 +18,10 @@ Sobre mim
 🎓  Desenvolvedor em formação
 💻  Desenvolvimento Web & Software
 🤖  Inteligência Artificial
-🎮  Desenvolvimento de jogos
 📚  Aprendizado contínuo
 🚀  Projetos próprios
 
-Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6, Godot e desenvolvimento de aplicações web.
+Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6 e desenvolvimento de aplicações web.
 
 ---
 
@@ -30,7 +29,7 @@ Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6, God
 
 <div align="center">Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,godot" />Web
+<img src="https://skillicons.dev/icons?i=js,ts,python" />Web
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />Ferramentas & Backend
 
@@ -64,23 +63,25 @@ Projeto desenvolvido para explorar aplicações desktop e sistemas completos.
 
 </td>
 </tr><tr>
-<td width="50%">🐴 Horse Wizard
-
-Projeto de jogo 2D desenvolvido na Godot.
-
-Stack
-
-"Godot" "GDScript"
-
-Exploração, combate, progressão e batalhas contra chefes.
-
-</td><td width="50%">📝 To-do List
+<td width="50%">📝 To-do List
 
 Projeto criado para praticar TypeScript, manipulação do DOM e organização de código.
 
 Stack
 
 "TypeScript" "Vite" "HTML" "CSS"
+
+</td><td width="50%">🤖 Yoshi AI
+
+Assistente de inteligência artificial desenvolvida para o TamoAqui.
+
+Objetivo
+
+Ajudar usuários dentro da plataforma e fornecer uma experiência de assistência contextual.
+
+Stack
+
+"JavaScript" "AI" "Node.js"
 
 </td>
 </tr>
@@ -94,7 +95,6 @@ Stack
 🟠| Backend & APIs
 🟣| Inteligência Artificial
 🔵| Python & PyQt6
-🟠| Game Development
 
 </div>---
 
