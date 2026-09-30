@@ -1,213 +1,118 @@
-<div align="center">"S A M U E N P D"
+<div align="center">"SAMUENPD"
 
-"DEVELOPER // CREATOR // PROBLEM SOLVER"
+Desenvolvedor em formação • Criador de projetos • Entusiasta de tecnologia
 
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   SAMUENPD OS v1.0                                      │
-│                                                          │
-│   > INITIALIZING USER...                                │
-│   > LOADING SKILLS...                                   │
-│   > LOADING PROJECTS...                                 │
-│   > CONNECTION ESTABLISHED                              │
-│                                                          │
-│   STATUS: ONLINE_                                        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:FF8C42&height=180&section=header&text=Samuel%20De%20Lima%20Milaré&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/></div>---
 
-" "GITHUB" " (https://github.com/samuenpd)   
-" "LINKEDIN" " (https://www.linkedin.com/)
+<div align="center">"Olá! 👋"
+
+Transformo ideias em projetos.
+
+Estudo desenvolvimento de software e gosto de aprender construindo coisas reais —
+desde aplicações web e sistemas até inteligência artificial e jogos.
 
 </div>---
 
-"01 // WHO_AM_I"
+Sobre mim
 
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  NAME        Samuel                                       │
-│  USERNAME    samuenpd                                     │
-│  ROLE        Developer in progress                        │
-│  FOCUS       Software / Web / AI / Games                  │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+🎓  Desenvolvedor em formação
+💻  Desenvolvimento Web & Software
+🤖  Inteligência Artificial
+🎮  Desenvolvimento de jogos
+📚  Aprendizado contínuo
+🚀  Projetos próprios
 
-Eu gosto de entender como as coisas funcionam e construir minhas próprias soluções.
-
-Atualmente estou estudando desenvolvimento de software enquanto desenvolvo projetos próprios, experimentando diferentes tecnologias e tentando transformar ideias em aplicações reais.
-
-Meu foco não é apenas aprender uma linguagem.
-
-É aprender como construir coisas.
+Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6, Godot e desenvolvimento de aplicações web.
 
 ---
 
-"02 // CURRENT_MISSION"
+🛠️ Tecnologias
 
-MISSION STATUS: ACTIVE
+<div align="center">Linguagens
 
-[████████████████████░░] LEARNING
-[██████████████████░░░░] BUILDING
-[████████████████░░░░░░] EXPERIMENTING
-[██████████████░░░░░░░░] DEBUGGING
+<img src="https://skillicons.dev/icons?i=js,ts,python,godot" />Web
 
-OBJECTIVE:
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />Ferramentas & Backend
 
-> Transform ideas into working software.
+<img src="https://skillicons.dev/icons?i=git,github,supabase,mysql" /></div>---
 
-"CURRENTLY EXPLORING"
+🚀 Projetos em destaque
 
-"TypeScript" · "React" · "Vite" · "Node.js" · "Python" · "PyQt6" · "Godot" · "AI"
+<table>
+<tr>
+<td width="50%">🏙️ TamoAqui
 
----
+Plataforma para registrar e acompanhar problemas urbanos.
 
-"03 // MY_SYSTEMS"
+Stack
 
-"TAMOAQUI.exe"
-
-TYPE        Urban platform
-PURPOSE     Connect citizens with urban problems
-STACK       React / TypeScript / Vite / Supabase
-AI          Yoshi
-STATUS      DEVELOPMENT
-
-TamoAqui é um projeto voltado para o registro e acompanhamento de problemas urbanos.
+"React" "TypeScript" "Vite" "Supabase"
 
 Também estou desenvolvendo a Yoshi, uma assistente de IA integrada ao projeto.
 
-«"SYSTEM: TamoAqui"
+<a href="https://github.com/samuenpd/Tamo-aqui">Ver projeto →</a>
 
-"AI MODULE: Yoshi"
+</td><td width="50%">🏫 SISPE
 
-"STATUS: BUILDING..."»
+Sistema para gerenciamento e acompanhamento escolar.
 
-" "VIEW PROJECT →" " (https://github.com/samuenpd/Tamo-aqui)
+Stack
 
----
+"Python" "PyQt6" "Qt Designer"
 
-"SISPE.exe"
+Projeto desenvolvido para explorar aplicações desktop e sistemas completos.
 
-TYPE        School management system
-PURPOSE     Student and report management
-STACK       Python / PyQt6 / Qt Designer
-STATUS      DEVELOPMENT
+</td>
+</tr><tr>
+<td width="50%">🐴 Horse Wizard
 
-O SISPE é um sistema que estou desenvolvendo para gerenciamento e acompanhamento escolar.
+Projeto de jogo 2D desenvolvido na Godot.
 
-O projeto também é uma forma de explorar desenvolvimento de aplicações desktop e organização de sistemas maiores.
+Stack
 
-«"SYSTEM: SISPE"
+"Godot" "GDScript"
 
-"INTERFACE: PyQt6"
+Exploração, combate, progressão e batalhas contra chefes.
 
-"STATUS: REFACTORING..."»
+</td><td width="50%">📝 To-do List
 
----
+Projeto criado para praticar TypeScript, manipulação do DOM e organização de código.
 
-"HORSE_WIZARD.exe"
+Stack
 
-TYPE        2D Game
-ENGINE      Godot
-GENRE       Action / Platformer
-STATUS      DEVELOPMENT
+"TypeScript" "Vite" "HTML" "CSS"
 
-Um dos meus projetos de desenvolvimento de jogos.
+</td>
+</tr>
+</table>---
 
-A ideia mistura exploração, combate e progressão em um mundo inspirado por jogos como Hollow Knight, Castlevania e Dead Cells.
+📚 Atualmente estudando
 
-«"ENGINE: GODOT"
+<div align="center">Área| Foco
+🔵| TypeScript
+🟣| React
+🟠| Backend & APIs
+🟣| Inteligência Artificial
+🔵| Python & PyQt6
+🟠| Game Development
 
-"WORLD: LOADING..."
+</div>---
 
-"BOSS SYSTEM: ONLINE"»
+📊 GitHub
 
----
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=samuenpd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF8C42&text_color=FFFFFF&ring_color=3B82F6" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuenpd&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" /></div>---
 
-"04 // TECH_DATABASE"
+🔥 Atividade
 
-"LANGUAGES"
+<div align="center"><img src="https://streak-stats.demolab.com?user=samuenpd&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF8C42&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=888888" /></div>---
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-"TypeScript" (https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=3178C6)
-"Python" (https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=3776AB)
-"GDScript" (https://img.shields.io/badge/GDScript-09090B?style=flat-square&logo=godot-engine&logoColor=478CBF)
+💡 Filosofia
 
-"WEB"
+<div align="center">«"Não quero apenas usar tecnologia.
+Quero entender, construir e criar com ela."»
 
-"React" (https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=61DAFB)
-"Vite" (https://img.shields.io/badge/Vite-09090B?style=flat-square&logo=vite&logoColor=646CFF)
-"Node.js" (https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=node.js&logoColor=339933)
-"HTML5" (https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=E34F26)
-"CSS3" (https://img.shields.io/badge/CSS3-09090B?style=flat-square&logo=css3&logoColor=1572B6)
+</div>---
 
-"TOOLS"
+<div align="center">Vamos construir algo?
 
-"Git" (https://img.shields.io/badge/Git-09090B?style=flat-square&logo=git&logoColor=F05032)
-"GitHub" (https://img.shields.io/badge/GitHub-09090B?style=flat-square&logo=github&logoColor=FFFFFF)
-"Godot" (https://img.shields.io/badge/Godot-09090B?style=flat-square&logo=godot-engine&logoColor=478CBF)
-"Supabase" (https://img.shields.io/badge/Supabase-09090B?style=flat-square&logo=supabase&logoColor=3ECF8E)
-
----
-
-"05 // DEVELOPMENT_LOG"
-
-[2026]
-
-09.30  > Building GitHub identity
-09.XX  > Developing TamoAqui
-09.XX  > Building Yoshi AI
-09.XX  > Refactoring SISPE
-09.XX  > Studying TypeScript
-09.XX  > Experimenting with Godot
-
-«"Every project is another system unlocked."»
-
----
-
-"06 // GITHUB_ACTIVITY"
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samuenpd&show_icons=true&hide_border=true&bg_color=09090B&title_color=00FFFF&icon_color=BF00FF&text_color=E5E7EB&rank_icon=github" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuenpd&layout=compact&hide_border=true&bg_color=09090B&title_color=00FFFF&text_color=E5E7EB" width="42%"></div>---
-
-"07 // TERMINAL"
-
-samuel@github:~$ ./about-me
-
-> Loading profile...
-
-NAME:        Samuel
-HANDLE:      samuenpd
-SPECIALITY:  Building things
-STATUS:      Learning
-
-> Loading projects...
-
-[OK] TamoAqui
-[OK] Yoshi AI
-[OK] SISPE
-[OK] Horse Wizard
-
-> Loading motivation...
-
-"Don't just use technology.
- Understand it. Build with it."
-
-> Process finished.
-
-samuel@github:~$ _
-
----
-
-"08 // CONNECTION"
-
-<div align="center">┌──────────────────────────────────────────────┐
-│                                              │
-│       WANT TO BUILD SOMETHING?               │
-│                                              │
-│       github.com/samuenpd                    │
-│                                              │
-│       CONNECTION STATUS: OPEN                │
-│                                              │
-└──────────────────────────────────────────────┘
-
-"> KEEP BUILDING."
-
-</div>
+<a href="https://github.com/samuenpd"><img src="https://img.shields.io/badge/GitHub-samuenpd-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:8A2BE2,100:3B82F6&height=100&section=footer" width="100%"/></div>
