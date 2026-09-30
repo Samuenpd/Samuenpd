@@ -98,9 +98,7 @@ Stack
 
 </div>
 
-📊 GitHub
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=samuenpd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF8C42&text_color=FFFFFF&ring_color=3B82F6" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuenpd&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" /></div>
 
 🔥 Atividade
 
