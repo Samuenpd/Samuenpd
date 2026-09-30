@@ -27,8 +27,6 @@ Atualmente estou explorando principalmente TypeScript, React, Python, PyQt6 e de
 
 🛠️ Tecnologias
 
-<div align="center">Linguagens
-
 <img src="https://skillicons.dev/icons?i=js,ts,python" />
 
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,html,css" />
