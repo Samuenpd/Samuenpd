@@ -1,4 +1,4 @@
-<div align="center">"SAMUENPD"
+<div align="center">SAMUENPD
 
 Desenvolvedor em formação • Criador de projetos • Entusiasta de tecnologia
 
