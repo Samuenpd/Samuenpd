@@ -72,6 +72,25 @@ Cidadãos registram problemas da cidade e acompanham o andamento de cada um.
 </details>
 
 <details>
+<summary><b>💊 CuraDigital</b> — plataforma full stack de ofertas com alertas de preço</summary>
+<br/>
+
+Projeto acadêmico em equipe para consulta de ofertas, com **alertas de preço processados por um microsserviço assíncrono**. Arquitetura dividida em frontend (SPA), API REST e serviço de notificações, com CI automatizado e documentação completa.
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=FFD62E)
+![SCSS](https://img.shields.io/badge/SCSS-1a1a2e?style=flat-square&logo=sass&logoColor=CC6699)
+![Node.js](https://img.shields.io/badge/Express-1a1a2e?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square&logo=sqlite&logoColor=44A8E0)
+![BullMQ](https://img.shields.io/badge/BullMQ-1a1a2e?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-1a1a2e?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+👉 [Ver repositório](https://github.com/Samuenpd/CuraDigital)
+
+</details>
+
+<details>
 <summary><b>🤖 Yoshi AI</b> — assistente de IA integrada ao TamoAqui</summary>
 <br/>
 
@@ -95,7 +114,7 @@ Aplicação desktop criada para explorar a construção de sistemas completos co
 ![PyQt6](https://img.shields.io/badge/PyQt6-1a1a2e?style=flat-square&logo=qt&logoColor=41CD52)
 ![Qt Designer](https://img.shields.io/badge/Qt_Designer-1a1a2e?style=flat-square&logo=qt&logoColor=41CD52)
 
-<!-- Adicione o link do repositório: 👉 [Ver repositório](https://github.com/samuenpd/NOME-DO-REPO) -->
+👉 [Ver repositório](https://github.com/Samuenpd/SISPE)
 
 </details>
 
